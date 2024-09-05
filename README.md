@@ -42,6 +42,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=varaprasad27&icon=5&color=0)](https://visitcount.itsvg.in)
+<!--- [![](https://visitcount.itsvg.in/api?id=varaprasad27&icon=5&color=0)](https://visitcount.itsvg.in) --->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
