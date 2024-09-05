@@ -34,8 +34,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=varaprasad27&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=varaprasad27&theme=dark&hide_border=false)<br/>
+<!--- ![](https://github-readme-stats.vercel.app/api?username=varaprasad27&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=varaprasad27&theme=dark&hide_border=false)<br/> --->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varaprasad27&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
